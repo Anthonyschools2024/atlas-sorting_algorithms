@@ -1,0 +1,1 @@
+These set of task we will be going over how to sort algorithms correcty.
